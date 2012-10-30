@@ -64,4 +64,4 @@ All documentation for the Wolfram Alpha Plugin is available online at:
   * [ZaWiki Plugin Page](http://zawiki.dyndns.org/~zas/zawiki/doku.php/tschinz:dw_wolfram)
   * [Github Project Page](https://github.com/tschinz/dokuwiki_wolframalpha_plugin)
 
-(c) 2011 by Zahno Silvan <zaswiki@gmail.com>
+2011 by Zahno Silvan <zaswiki@gmail.com>
