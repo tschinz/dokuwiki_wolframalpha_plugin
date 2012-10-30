@@ -1,7 +1,7 @@
 <?php
 /*
  * DokuWiki wolframalpha plugin
- * Copyright (C) 2011 Zahno Silvan
+ * 2011 Zahno Silvan
  * Usage:
  *
  * {{wolfram>widget_id}} 
