@@ -61,7 +61,7 @@ and copy the value behind the `id=`, in the above example it is:
 All documentation for the Wolfram Alpha Plugin is available online at:
 
   * [Dokuwiki Plugin Page](http://dokuwiki.org/plugin:wolframalpha)
-  * [ZaWiki Plugin Page](http://zawiki.dyndns.org/~zas/zawiki/doku.php/tschinz:dw_wolfram)
+  * [ZaWiki Plugin Page](http://zawiki.dyndns.org/doku.php/tschinz:dw_wolfram)
   * [Github Project Page](https://github.com/tschinz/dokuwiki_wolframalpha_plugin)
 
 2011 by Zahno Silvan <zaswiki@gmail.com>
