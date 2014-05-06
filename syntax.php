@@ -42,7 +42,7 @@ class syntax_plugin_wolfram extends DokuWiki_Syntax_Plugin {
             'date'   => '2011-10-22',
             'name'   => 'Wolfram Alpha Plugin',
             'desc'   => 'Add Wolfram Alpha Widgets to your Wikipage',
-            'url'    => 'http://zawiki.dyndns.org/doku.php/tschinz:dw_wolfram',
+            'url'    => 'http://zawiki.zapto.org/doku.php/tschinz:dw_wolfram',
         );
     }
 
